@@ -1,0 +1,15 @@
+h1 {
+    color: red;
+    text-align: center;
+}
+img {
+    width: 100%;
+    animation: image 2s;
+}
+@keyframes image {
+    from{opacity:0;}
+    to{opacity:1;}
+}
+body {
+ background-color:blue;
+}
